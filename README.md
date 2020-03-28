@@ -13,12 +13,16 @@ This file will become your README and also the index of your documentation.
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+say_hello("Flasch")
 ```
 
 
 
 
-    2
+    'Hello Flasch!'
 
 
+
+```python
+assert say_hello("Flasch") == 'Hello Flasch!'
+```
