@@ -1,4 +1,4 @@
-# nbdev template
+# nbdev_try1
 
-Use this template to more easily create your nbdev project.
+Just a test.
 
